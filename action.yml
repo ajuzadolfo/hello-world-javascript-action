@@ -1,5 +1,5 @@
-name: 'Hello World'
-description: 'Greet someone and record the time'
+name: 'Hola mundo'
+description: 'Saludar y mostrar la hora del saludo'
 inputs:
   a-quien-saludar:  # id of input
     description: 'A quien saludar'
